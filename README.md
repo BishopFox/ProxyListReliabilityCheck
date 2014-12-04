@@ -16,9 +16,24 @@ Note: Testing of the script was used with ActiveState Perl:
 
 
 ## Usage
-![ProxyListReliabilityCheck - Usage](https://github.com/BishopFox/ProxyListReliabilityCheck/blob/master/Usage-ProxyListReliabilityCheckv1.png)
+ ![ProxyListReliabilityCheck - Usage](https://github.com/BishopFox/ProxyListReliabilityCheck/blob/master/Screenshots/Usage-ProxyListReliabilityCheckv1.png)
 
 
 ## Example
 See below example of script running against a list of open web proxies sent to us via our HideMyAss.com subscription.
-![ProxyListReliabilityCheck - Example]()
+ ![ProxyListReliabilityCheck - Example](https://github.com/BishopFox/ProxyListReliabilityCheck/blob/master/Screenshots/Example-ProxyListReliabilityCheckv1.png)
+
+
+## Resource Links
+Bishop Fox - Google Hacking Diggity Project:
+* http://www.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/
+
+Open Proxy Lists:
+* http://www.hidemyass.com/proxy-list/
+* http://www.publicproxyservers.com/
+* http://www.google.com/search?q=+":8080" +":3128" +":80" filetype:txt
+* http://www.dmoz.org/Computers/Internet/Proxying_and_Filtering/Hosted_Proxy_Services/Free/Proxy_Lists/
+
+Other Proxy Checker Tools:
+* http://www.edge-security.com/soft/proxyfinder-0.3.pl
+* http://www.softsea.com/review/Proxy-Checker-Lite.html
