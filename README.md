@@ -16,3 +16,9 @@ Note: Testing of the script was used with ActiveState Perl:
 
 
 ## Usage
+![ProxyListReliabilityCheck - Usage](https://github.com/BishopFox/ProxyListReliabilityCheck/blob/master/Usage-ProxyListReliabilityCheckv1.png)
+
+
+## Example
+See below example of script running against a list of open web proxies sent to us via our HideMyAss.com subscription.
+![ProxyListReliabilityCheck - Example]()
