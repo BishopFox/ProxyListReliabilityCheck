@@ -23,6 +23,9 @@ if ( !(scalar(@ARGV) == 1)) { die "
        |     Tests Reliability of Open Web Proxies      |
        +================================================+
    
+\tHome:
+\t\thttps://github.com/BishopFox/ProxyListReliabilityCheck
+
 
 \tUsage:
 \t\tperl ProxyListReliabilityCheck.pl [proxie_list_to_test.txt]
